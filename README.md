@@ -1,2 +1,2 @@
-# Sem-work-Frontend-works-School-
-Продвижение работы Dev1 - 0%
+# Продвижение Dev1 - 0%
+# Продвижение Dev2 - 0%
