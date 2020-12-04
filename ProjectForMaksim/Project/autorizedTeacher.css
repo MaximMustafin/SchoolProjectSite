@@ -1,0 +1,164 @@
+.search{
+    position: center;
+    text-align: center;
+    top: 20px;
+    z-index: 1;
+}
+
+.search i{
+    position: absolute;
+    color: #dbb075;
+    cursor: pointer;
+    top: 20px;
+}
+.search-form{
+    padding-left: 10px;
+    height: 40px;
+    font-size: 18px;
+    color: #818285;
+    font-weight: 300;
+    outline: none;
+    border: 1px solid #dbb075;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item + .flex-item {
+    margin-left: 10px;
+}
+
+/*reset*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+    margin:0;
+    padding:0;
+}
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+fieldset,img {
+    border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+    font-style:normal;
+    font-weight:normal;
+}
+
+caption,th {
+    text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+q:before,q:after {
+    content:'';
+}
+abbr,acronym { border:0;
+}
+/*end reset*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    font:12px Arial, Verdana, san-serif;
+    color:#333;
+    background-color:#fff;
+}
+
+.myButton1 {
+    display: flex;
+    text-decoration: none;
+    background-color: #006089;
+    color: #ffeded;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px 50px;
+    transition: all 0.8s ease;
+    height:200px;
+    width:200px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.myButton1:hover{
+    text-decoration: none;
+    background-color: #017bb0;
+    color: #ffeded;
+}
+.myButton2 {
+    display: flex;
+    text-decoration: none;
+    background-color: #9f0202;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px 50px;
+    transition: all 0.8s ease;
+    height:200px;
+    width:200px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.myButton2:hover{
+    text-decoration: none;
+    background-color: #ac3333;
+    color: #ffeded;
+}
+.myButton3 {
+    display: flex;
+    text-decoration: none;
+    background-color: #dd5800;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px 50px;
+    transition: all 0.8s ease;
+    height:200px;
+    width:200px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.myButton3:hover{
+    text-decoration: none;
+    background-color: #e78138;
+    color: #ffeded;
+}
+.myButton4 {
+    display: flex;
+    text-decoration: none;
+    background-color: #e52222;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px 50px;
+    transition: all 0.8s ease;
+    height:200px;
+    width:200px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.myButton4:hover{
+    text-decoration: none;
+    background-color: #f35c5c;
+    color: #ffeded;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.Avatar{
+    height:200px;
+    width:200px;
+}
