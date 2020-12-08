@@ -97,7 +97,7 @@ body {
 .myButton2 {
     display: flex;
     text-decoration: none;
-    background-color: #80029f;
+    background-color: #9f0202;
     color: #ffffff;
     border: none;
     border-radius: 5px;
@@ -111,7 +111,7 @@ body {
 }
 .myButton2:hover{
     text-decoration: none;
-    background-color: #9433ac;
+    background-color: #ac3333;
     color: #ffeded;
 }
 .myButton3 {
